@@ -60,5 +60,5 @@ El núcleo del sistema es una base de datos relacional robusta que maneja la int
     ```
 
 ---
-**Autor:** [Tu Nombre]
+**Autor:** JEFFERSON ANTONIO ARRIOLA REYES
 **Licencia:** MIT
