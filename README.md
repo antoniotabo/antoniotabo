@@ -11,6 +11,7 @@
 Soy una desarrolladora de software y estudiante avanzada con un perfil multidisciplinario. Combino la rigurosidad de la **Ingeniería de Sistemas** y la **Ingeniería de Métodos** con la disciplina y sensibilidad de mi formación profesional en **Ingenieria de Sistemas**. Mi enfoque se centra en crear sistemas robustos, interfaces intuitivas y soluciones que optimicen procesos complejos.
 
 ---
+PAGINA WEB: https://antoniotabo.github.io/mi-portafolio/ 
 
 ## 🛠 Habilidades y Stack Tecnológico
 
