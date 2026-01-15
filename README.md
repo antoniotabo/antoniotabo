@@ -1,14 +1,14 @@
 # Hola, soy JEFFERSON ANTONIO ARRIOLA REYES 👋
-### 🚀 Ingeniería de Sistemas | 🎵 UNIVERSIDAD NACIONAL DE UCAYALI (VIII Ciclo) |
+### 🚀 Ingenierio de Sistemas | 🎵 UNIVERSIDAD NACIONAL DE UCAYALI (VIII Ciclo) |
 
 [![Angular](https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![MySQL](https://img.shields.io/badge/Database-MySQL_8.0-4479a1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Engineering](https://img.shields.io/badge/Focus-Methods_Engineering-orange?style=flat&logo=google-scholar&logoColor=white)]()
 
-> **"Ingeniería con sensibilidad artística: Donde la lógica estructurada se encuentra con la creatividad y la disciplina."**
 
-Soy una desarrolladora de software y estudiante avanzada con un perfil multidisciplinario. Combino la rigurosidad de la **Ingeniería de Sistemas** y la **Ingeniería de Métodos** con la disciplina y sensibilidad de mi formación profesional en **Ingenieria de Sistemas**. Mi enfoque se centra en crear sistemas robustos, interfaces intuitivas y soluciones que optimicen procesos complejos.
+## Sobre mi
+Soy una desarrolladora de software y estudiante avanzado con un perfil multidisciplinario. Combino la rigurosidad de la **Ingeniería de Sistemas** y la **Innovación** con la disciplina y sensibilidad de mi formación profesional en **Ingenieria de Sistemas**. Mi enfoque se centra en crear sistemas robustos, interfaces intuitivas y soluciones que optimicen procesos complejos.
 
 ---
 PAGINA WEB: https://antoniotabo.github.io/mi-portafolio/ 
@@ -16,14 +16,14 @@ PAGINA WEB: https://antoniotabo.github.io/mi-portafolio/
 ## 🛠 Habilidades y Stack Tecnológico
 
 ### 💻 Desarrollo de Software
-* **Frontend:** Especialista en **Angular** (Componentes, Servicios, RxJS). Mi interés en la pintura y el retrato me permite tener un ojo crítico para la UI/UX y la teoría del color.
+* **Frontend:** Especialista en **Angular** (Componentes, Servicios, RxJS). Mi interés en la innovación y la mejora visual continua me permite tener un ojo crítico para la UI/UX y la teoría del color.
 * **Backend:** Desarrollo de APIs escalables con **Node.js** y Express.
-* **Base de Datos Avanzada:** Diseño de esquemas complejos en **MySQL 8.0**. Manejo de Vistas Materializadas, Triggers, Columnas Generadas y datos JSON.
+* **Base de Datos Avanzada:** Diseño de esquemas complejos en **MySQL Workbench 8.0**. Manejo de Vistas Materializadas, Triggers, Columnas Generadas y datos JSON.
 * **Sistemas:** Conocimientos en Sistemas Distribuidos, Migración de Máquinas Virtuales y Arquitectura de Servidores.
 
 ### ⚙️ Ingeniería y Procesos
 * **Ingeniería de Métodos:** Aplicación de metodologías **5S**, **Balance de Líneas** y Estudios de Tiempos para la optimización de recursos.
-* **Investigación:** Redacción académica y técnica (Tesis en Pedagogía Musical, Monografías sobre Ciberdelitos).
+
 
 ---
 
@@ -71,3 +71,8 @@ SELECT
 FROM facturas f 
 JOIN factura_items fi ON fi.factura_id = f.id
 GROUP BY f.id;
+
+## Contacto 
+WhatsApp: +51 915366877
+email: antonio.tabo@gmail.com    
+
