@@ -54,6 +54,31 @@ El sistema maneja la conversión específica de la industria maderera.
 * [cite_start]La tabla `packing_items` procesa dimensiones milimétricas (Espesor `e`, Ancho `a`, Largo `l`) para calcular el volumen comercial (`volumen_pt`) necesario para la facturación y exportación[cite: 46].
 
 ---
+### 5. Experiencia General 
+EXPERIENCIA LABORAL: Fuente Planillas Electrónicas
+Ruc 20610173285
+Razón Social ADECCO SALES & MARKETING S.A. ADECCO S & MS.A.
+Desde 08/01/2024
+Hasta 22/01/2024
+
+Ruc 20393864886
+Razón Social HIPERMERCADOS TOTTUS ORIENTE S.A.C.
+Desde 19/11/2018
+Hasta 31/07/2023
+
+Ruc 20103845328
+Razón Social CAJA MUNICIPAL DE AHORRO Y CREDITO DE MAYNAS
+Desde 04/04/2018
+Hasta 30/06/2018
+
+Ruc 20429683581
+Razón Social CINEPLEX S.A
+Desde 03/04/2017
+Hasta 18/09/2017
+
+adjunto Certificado Unico Laboral, emitido por el Ministro de Trabajo
+[CUL.pdf](https://github.com/user-attachments/files/24986529/CUL.pdf)
+
 
 ## 📂 Estructura del Proyecto (Preview)
 
